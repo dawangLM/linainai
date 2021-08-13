@@ -1,0 +1,39 @@
+{
+  "name": "ZQTASK_V2P",
+  "author": "Linainai",
+  "desc": "V2p版中青",
+  "date": "2021-08-13 19:30:00",
+  "list": [
+    {
+      "name": "中青自动阅读",
+      "type": "cron",
+      "time": "*/4 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": "https://raw.githubusercontent.com/ztxtop/x/main/zqread.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青看看赚",
+      "type": "cron",
+      "time": "30 6,18 * * *",
+      "job": {
+        "type": "runjs",
+        "target": " https://raw.githubusercontent.com/ztxtop/x/main/youth_banner.js"
+      },
+      "running": false
+    },
+    {
+      "name": "中青签到",
+      "type": "cron",
+      "time": "20,30 0-23 * * *",
+      "job": {
+        "type": "runjs",
+        "target": " https://raw.githubusercontent.com/ztxtop/x/main/youth.js"
+      },
+      "running": false
+    },
+
+  ]
+}
