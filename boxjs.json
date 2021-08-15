@@ -55,7 +55,7 @@
     {
             "id": "tfb",
             "name": "推粉宝",
-            "keys": ["tfbhd","tfbhd1", "tfbhd2","tfbhd3", "tfbhd4","tfbhd5", "tfbhd6","tfbhd7", "tfbhd8","tfbhd9", "tfbhd10","tfbhd11", "tfbhd12","tfbhd13", "tfbhd14","tfbhd15"],
+            "keys": ["tfbhd","tfbhd1", "tfbhd2","tfbhd3", "tfbhd4","tfbhd5", "tfbhd6","tfbhd7", "tfbhd8","tfbhd9", "tfbhd10","tfbhd11", "tfbhd12","tfbhd13", "tfbhd14","tfbhd15","tfbhd16"],
             "author": "@linainai",
             "settings": [{
             "id": "tfbstatus",
