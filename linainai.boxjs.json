@@ -51,6 +51,29 @@
             "icons": ["http://nm66.top/1.jpg", "https://raw.githubusercontent.com/dawangLM/linainai/main/linainai.png"],
             "script": "http://nm66.top/qmdff.js"
 
+    },
+    {
+            "id": "tfb",
+            "name": "推粉宝",
+            "keys": ["tfbhd","tfbhd1", "tfbhd2","tfbhd3", "tfbhd4","tfbhd5", "tfbhd6","tfbhd7", "tfbhd8","tfbhd9", "tfbhd10","tfbhd11", "tfbhd12","tfbhd13", "tfbhd14","tfbhd15"],
+            "author": "@linainai",
+            "settings": [{
+            "id": "tfbstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    },
+    {
+            "id": "tfbhttp://nm66.top/tfb.jscount",
+            "name": "账号个数",
+            "val": "1",
+            "type": "number",
+            "desc": "需要几个账号，数字为几"
+    }],
+            "repo": "http://nm66.top/tfb.js",
+            "icons": ["http://nm66.top/1.jpg", "https://raw.githubusercontent.com/dawangLM/linainai/main/linainai.png"],
+            "script": "http://nm66.top/tfb.js"
     }
   ]
   
