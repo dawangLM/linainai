@@ -76,10 +76,6 @@
             "script": "http://nm66.top/tfb.js"
     },
     {
-	"id": "sqxs.app.sub",
-	"name": "书旗&极速",
-	"author": "@zw119",
-	"apps": [{
 		"id": "sqxs&speed",
 		"name": "书旗小说&极速",
 		"keys": [
