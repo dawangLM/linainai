@@ -65,7 +65,7 @@
             "desc": "当前账号对应"
     },
     {
-            "id": "tfbhttp://nm66.top/tfb.jscount",
+            "id": "tfbcount",
             "name": "账号个数",
             "val": "1",
             "type": "number",
